@@ -1,0 +1,2 @@
+# Ben_learning_chat
+一款学习群友说怪话的胡言乱语bot插件
